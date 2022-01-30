@@ -1,0 +1,7 @@
+{
+    "references": [
+        { "path": "packages/nouns-assets" },
+        { "path": "packages/nouns-sdk" },
+        { "path": "packages/nouns-webapp" },
+    ]
+}
